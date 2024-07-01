@@ -1,0 +1,15 @@
+# Task of document CLI
+- # One command
+- Document CLI This is the command line interface
+- Creating a json document
+- Receive a json argument from the user
+- Converts the argument entered in Python to json
+- And this argument is added to the array of all the arguments in the document
+- Then update the document in the new array with the additional argument
+- # Second command
+- Reading the data from the file
+- Converting them to Python type objects
+- Take the last 10 arguments from the file
+- Error checking:
+- - If the file does not exist returns an error
+- - If there are no 10 arguments. Prints all the arguments in the file
